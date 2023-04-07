@@ -117,3 +117,19 @@ h1 {
 .label-score {
   margin-bottom: 2rem;
 }
+
+* FOOTER */
+#footer__main {
+  padding: 10rem 3rem !important;
+  background-color: #37383d;
+}
+
+.footer__copyright {
+  font-size: 1.4rem;
+  color: #aaa;
+  text-align: center;
+}
+
+.footer__copyright .footer__link {
+  font-size: 1.4rem;
+}
